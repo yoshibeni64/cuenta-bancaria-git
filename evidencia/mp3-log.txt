@@ -1,0 +1,7 @@
+*   d90aca8 (HEAD -> main, origin/main) Merge pull request #1 from yoshibeni64/feature/retiros
+|\  
+| * 13dd566 Dice cuántos retiros fueron gratis
+| * 29586fb Muestra el número de retiros
+|/  
+* 367d394 MP-1: mi nombre en el estado de cuenta
+* a6e3375 MP-0: la cuenta bancaria
